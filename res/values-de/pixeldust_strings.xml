@@ -186,4 +186,9 @@
     <string name="data_usage_app_restrict_vpn_summary">VPN-Datennutzung erlauben</string>
     <string name="data_usage_app_restrict_wifi">WLAN-Daten</string>
     <string name="data_usage_app_restrict_wifi_summary">WLAN-Datenzugriff erlauben</string>
+
+    <!-- Changelog -->
+    <string name="changelog_title">Changelog</string>
+    <string name="changelog_summary">Änderungen nach dem letzten Update anzeigen</string>
+    <string name="changelog_error">Changelog kann nicht geladen werden</string>
 </resources>
