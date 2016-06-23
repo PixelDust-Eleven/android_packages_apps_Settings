@@ -194,4 +194,19 @@
 
     <!-- Notification log -->
     <string name="notification_log_summary">Verlaufsprotokoll für Benachrichtigungen anzeigen</string>
+
+    <!-- Fingerprint location message - default -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Lokalisieren Sie den Fingerabdrucksensor an der Vorderseite Ihres Telefons.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Lokalisieren Sie den Fingerabdrucksensor auf der linken Seite Ihres Telefons.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Lokalisieren Sie den Fingerabdrucksensor auf der rechten Seite Ihres Telefons.</string>
+
+    <!-- Fingerprint location message - generic -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Lokalisieren Sie den Fingerabdrucksensor an der Vorderseite Ihres Geräts.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Lokalisieren Sie den Fingerabdrucksensor auf der linken Seite Ihres Geräts.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Lokalisieren Sie den Fingerabdrucksensor auf der rechten Seite Ihres Geräts.</string>
+
+    <!-- Fingerprint location message - tablet -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Lokalisieren Sie den Fingerabdrucksensor auf der Vorderseite Ihres Tablets.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Lokalisieren Sie den Fingerabdrucksensor auf der linken Seite Ihres Tablets.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Lokalisieren Sie den Fingerabdrucksensor auf der rechten Seite Ihres Tablets.</string>
 </resources>
