@@ -28,4 +28,7 @@
     <string name="pixeldust_settings_title">PixelDust Settings</string>
     <string name="pixeldust_settings_summary">ROM features &amp; personalization</string>
 
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
+
 </resources>
