@@ -191,4 +191,7 @@
     <string name="changelog_title">Changelog</string>
     <string name="changelog_summary">Änderungen nach dem letzten Update anzeigen</string>
     <string name="changelog_error">Changelog kann nicht geladen werden</string>
+
+    <!-- Notification log -->
+    <string name="notification_log_summary">Verlaufsprotokoll für Benachrichtigungen anzeigen</string>
 </resources>
