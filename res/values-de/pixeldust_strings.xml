@@ -24,4 +24,8 @@
     <string name="pd_build_date">Build Datum</string>
     <string name="pd_build_date_default">2017-08-01-0000</string>
 
+    <!-- PixelDust Settings strings -->
+    <string name="pixeldust_settings_title">PixelDust Einstellungen</string>
+    <string name="pixeldust_settings_summary">ROM Features &amp; benutzerdefinerte Einstellungen</string>
+
 </resources>
