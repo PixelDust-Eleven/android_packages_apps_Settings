@@ -66,6 +66,12 @@
             android:entryValues="@array/ambient_music_location_values"
             android:defaultValue="1" />
 
+        <com.pixeldust.settings.preferences.SystemSettingSwitchPreference 
+            android:key="ambient_battery_percent" 
+            android:title="@string/ambient_battery_percent_title" 
+            android:summary="@string/ambient_battery_percent_summary" 
+            android:defaultValue="true" />
+
         <com.pixeldust.settings.preferences.SystemSettingSwitchPreference
             android:key="sysui_keyguard_show_battery_bar"
             android:title="@string/keyguard_show_battery_title"

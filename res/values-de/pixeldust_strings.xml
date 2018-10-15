@@ -256,4 +256,8 @@
     <string name="keyguard_show_battery_summary">Während des Ladevorgangs einen Akkustandbalken auf dem Ambient Display anzeigen</string>
     <string name="keyguard_show_battery_always_title">Akkustandbalken ständig anzeigen</string>
     <string name="keyguard_show_battery_always_summary">Akkustandbalken auf dem Ambient Display ständig anzeigen</string>
+
+    <!-- Ambient display battery percentage --> 
+    <string name="ambient_battery_percent_title">Akkuladestand am unteren Rand anzeigen</string> 
+    <string name="ambient_battery_percent_summary">Akkuladestand als Prozentwert auf dem Ambient Display anzeigen</string>
 </resources>
