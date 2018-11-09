@@ -100,4 +100,8 @@
 
     <string name="lockscreen_display_title">Sperrbildschirm</string>
 
+    <!-- Dismiss notifications with back FP swipe -->
+    <string name="fp_swipe_to_dismiss_notifications_title">Benachrichtigungen schließen durch nach links oder rechts wischen über den Fingerabdrucksensor</string>
+    <string name="fp_swipe_to_dismiss_notifications_summary">Wische über den Fingerabdrucksensor auf der Geräterückseite nach links oder rechts, um Benachrichtigungen zu schließen.</string>
+
 </resources>
