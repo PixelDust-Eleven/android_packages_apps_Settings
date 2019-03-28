@@ -55,4 +55,10 @@
     <!-- Battery Temperature -->
     <string name="battery_temp">Akkutemperatur</string>
 
+    <!-- Smart charging -->
+    <string name="smart_charging_title">Smart Charging</string>
+    <string name="smart_charging_summary">Den maximalen Ladezustand festlegen</string>
+    <string name="smart_charging_switch_title">Smart charging verwenden</string>
+    <string name="smart_charging_level_title">Ladevorgang beenden</string>
+
 </resources>
