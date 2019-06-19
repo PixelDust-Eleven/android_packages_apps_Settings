@@ -60,5 +60,6 @@
     <string name="smart_charging_summary">Den maximalen Ladezustand festlegen</string>
     <string name="smart_charging_switch_title">Smart charging verwenden</string>
     <string name="smart_charging_level_title">Ladevorgang beenden</string>
+    <string name="smart_charging_resume_level_title">Ladevorgang starten</string>
 
 </resources>
