@@ -61,5 +61,8 @@
     <string name="smart_charging_switch_title">Smart charging verwenden</string>
     <string name="smart_charging_level_title">Ladevorgang beenden</string>
     <string name="smart_charging_resume_level_title">Ladevorgang starten</string>
+    <string name="smart_charging_reset_stats_title">Historie über den Ladevorgang</string>
+    <string name="smart_charging_reset_stats_summary">Die Historie vom letzten Ladevorgang zurücksetzen, nachdem der benutzerdefinierte Ladezustand erreicht worden ist</string>
+    <string name="smart_charging_footer">Smart Charging ermöglicht es den maximalen Ladepegel einzustellen, um möglicherweise die Lebensdauer des Akkus zu verlängern</string>
 
 </resources>
