@@ -80,6 +80,11 @@ public class FingerprintEnrollFindSensor extends BiometricEnrollBase {
         if (sensorLocation < SENSOR_LOCATION_BACK || sensorLocation > SENSOR_LOCATION_RIGHT) {
             sensorLocation = SENSOR_LOCATION_BACK;
         }
+        final boolean mHasFod = getResources().getBoolean(com.android.internal.R.bool.config_needCustomFODView);
+        if (mHasFod){
+            sensorLocation = SENSOR_LOCATION_FRONT;
+            animationView.setVisibility(View.GONE);
+        }
         final String customLocation = getResources().getStringArray(
                 R.array.security_settings_fingerprint_sensor_locations)[sensorLocation];
         TextView message = (TextView) findViewById(R.id.sud_layout_description);
