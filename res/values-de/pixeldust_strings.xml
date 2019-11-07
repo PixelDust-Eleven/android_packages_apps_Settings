@@ -112,4 +112,8 @@
     <string name="pulse_on_new_tracks_summary">Ambient Display anzeigen, wenn ein neuer Songtitel abgespielt wird. Die Titelinformationen doppelt antippen, um zum nächsten Titel zu springen.</string>
     <string name="pulse_on_new_tracks_soli_summary">Ambient Display anzeigen, wenn ein neuer Songtitel abgespielt wird.</string>
 
+    <!-- Swipe to screenshot -->
+    <string name="swipe_to_screenshot_title">Swipen für Screenshot</string>
+    <string name="swipe_to_screenshot_summary">Wische mit drei Fingern über den Bildschirm nach unten, um einen Screenshot zu erstellen</string>
+
 </resources>
