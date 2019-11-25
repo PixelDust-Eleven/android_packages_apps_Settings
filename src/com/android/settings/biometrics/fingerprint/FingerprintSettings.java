@@ -261,6 +261,11 @@ public class FingerprintSettings extends SubSettings {
             if (mLaunchedConfirm) {
                 return;
             }
+            // Don't listen if has fod support
+	        final boolean mHasFod = getContext().getResources().getBoolean(com.android.internal.R.bool.config_needCustomFODView);
+            if (mHasFod){
+                return;
+            }
             if (!mInFingerprintLockout) {
                 mAuthenticateSidecar.startAuthentication(mUserId);
                 mAuthenticateSidecar.setListener(mAuthenticateListener);
