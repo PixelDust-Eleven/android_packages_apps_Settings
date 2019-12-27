@@ -242,4 +242,6 @@ public class Settings extends SettingsActivity {
 
     public static class PixelDustSettingsActivity extends SettingsActivity { /* empty */ }
     public static class StartThemesActivity extends SettingsActivity { /* empty */ }
+
+    public static class LockscreenDisplayActivity extends SettingsActivity { /* empty */ }
 }
