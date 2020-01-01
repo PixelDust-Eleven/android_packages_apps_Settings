@@ -86,4 +86,8 @@
     <string name="clock_style_title">Stil der Uhranzeige</string>
     <string name="clock_style_summary">Layout für die Uhr auf dem Sperrbildschirm anpassen</string>
 
+    <!-- Themes -->
+    <string name="themes_title">UI-Stil anpassen</string>
+    <string name="themes_summary">Ändere das Look&amp;Feel Deines Geräts</string>
+
 </resources>

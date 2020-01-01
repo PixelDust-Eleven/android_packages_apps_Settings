@@ -86,4 +86,8 @@
     <string name="clock_style_title">Clock style</string>
     <string name="clock_style_summary">Customize lockscreen clock</string>
 
+    <!-- Themes -->
+    <string name="themes_title">Themes</string>
+    <string name="themes_summary">Change the look and feel of your device</string>
+
 </resources>
