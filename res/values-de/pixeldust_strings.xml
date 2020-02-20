@@ -90,4 +90,14 @@
     <string name="themes_title">UI-Stil anpassen</string>
     <string name="themes_summary">Ändere das Look&amp;Feel Deines Geräts</string>
 
+    <!-- Volume rocker gestures -->
+    <string name="volume_skiptrack_screen_title">Überspringen von Songtiteln</string>
+    <string name="volume_skiptrack_title">Lautstärkeregler zum Überspringen von Titel</string>
+    <string name="volume_skiptrack_summary">Lange auf die Lautstärkewippe drücken, um zum nächsten Songtitel zu springen. Das geht auch ferngesteuert über Fernseher oder PC mit z.B. mit Spotify (App muss auf dem Telefon ausgeführt werden und die Benachrichtigung anzeigen).</string>
+
+    <string name="ambient_wake_gestures_title">Ambient-Weckgesten</string>
+    <string name="ambient_wake_gestures_summary">Ambient Display anstelle des normalem Sperrbildschirms bei Weckgesten anzeigen</string>
+
+    <string name="lockscreen_display_title">Sperrbildschirm</string>
+
 </resources>
