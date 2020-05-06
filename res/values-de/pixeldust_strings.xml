@@ -217,4 +217,24 @@
     <string name="security_dashboard_summary_face_and_fingerprint">Bildschirmsperre, Fingerabdruck, Face Unlock</string>
     <string name="face_redo_confirm_btn">Wiederholen</string>
     <string name="face_redo_warning_msg">Möchten Sie den vorhandenen Gesichts-Scan entfernen und einen neuen erstellen?</string>
+
+    <!-- App Lock -->
+    <string name="applock_title">App Schloss</string>
+    <string name="applock_locked">Gesperrt</string>
+    <string name="applock_unlocked">Freigeschaltet</string>
+    <string name="applock_locked_apps">Gesperrte Apps</string>
+    <string name="applock_unlocked_apps">Freigeschaltete Apps</string>
+    <string name="applock_show_only_on_wake">Nur einmal authentifizieren</string>
+    <string name="applock_show_only_on_wake_on_summary">Nach der Authentifizierung bleibt eine App entsperrt, bis sich der Bildschirm ausschaltet</string>
+    <string name="applock_show_only_on_wake_off_summary">Nach der Authentifizierung bleibt eine App nach dem Beenden 15 Sekunden lang entsperrt</string>
+    <string name="applock_notification_info">Sie können den Benachrichtigungsinhalt pro App ein- und ausblenden, indem Sie auf das Benachrichtigungssymbol klicken, das in den Einstellungen der gesperrten Apps angezeigt wird</string>
+    <string name="applock_show_notif">Benachrichtigungsinhalt anzeigen</string>
+    <string name="applock_hide_notif">Benachrichtigungsinhalt ausblenden</string>
+    <string name="applock_setup">App Schloss einrichten</string>
+    <string name="applock_overlay_summary">Diese Funktion ist nicht verfügbar, da diese App gesperrt ist</string>
+    <plurals name="applock_summary">
+        <item quantity="one">1 App gesperrt</item>
+        <item quantity="other">%d Apps gesperrt</item>
+    </plurals>
+    <string name="keywords_applock_settings">Appschloss, App Schloss, app lock, app locker</string>
 </resources>
