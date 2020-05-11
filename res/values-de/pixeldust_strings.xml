@@ -43,4 +43,12 @@
     <string name="security_settings_face_require_swipe">Zum Entsperren nach oben wischen</string>
     <string name="security_settings_face_require_swipe_summary">Auf dem Sperrbildschirm nach oben wischen, um Face Unlock zu verwenden</string>
 
+    <!-- Battery health -->
+    <string name="battery_health_title">Akkuzustand</string>
+    <string name="battery_health_summary">Den Akkuzustand des Geräts überwachen</string>
+    <string name="current_battery_capacity">Aktuelle Akkukapazität</string>
+    <string name="current_battery_capacity_summary">Die aktuelle vom Kernel ermittelte Akkukapazität</string>
+    <string name="designed_battery_capacity">Angegebene Akkukapazität </string>
+    <string name="designed_battery_capacity_summary">Die vom Hersteller angegebene Akkukapazität</string>
+
 </resources>
