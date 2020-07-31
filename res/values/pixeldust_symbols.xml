@@ -15,11 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
     <!-- Battery Health -->
-    <string name="config_batCurCap"></string>
-    <string name="config_batDesCap"></string>
-    <string name="config_batChargeCycle"></string>
-    <bool name="config_supportBatteryHealth">true</bool>
-
+    <java-symbol type="bool" name="config_supportBatteryHealth" />
 </resources>
