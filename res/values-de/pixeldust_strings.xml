@@ -65,4 +65,10 @@
     <string name="smart_charging_reset_stats_summary">Die Historie vom letzten Ladevorgang zurücksetzen, nachdem der benutzerdefinierte Ladezustand erreicht worden ist</string>
     <string name="smart_charging_footer">Smart Charging ermöglicht es den maximalen Ladepegel einzustellen, um möglicherweise die Lebensdauer des Akkus zu verlängern</string>
 
+    <!-- Battery categorisation -->
+    <string name="battery_saver_category_title">Akkusparmodus</string>
+    <string name="smart_charging_category_title">Smart Charging</string>
+    <string name="battery_info_category_title">Akkuzustand</string>
+    <string name="battery_usage_category_title">Akkuinformationen</string>
+
 </resources>
