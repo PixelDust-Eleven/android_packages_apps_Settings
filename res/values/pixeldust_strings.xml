@@ -147,7 +147,7 @@
     <string name="back_swipe_extended_summary">Trigger action on wider swipe (more than half of display size), or a L swipe (vertically longer enough)</string>
 
     <!-- Navbar length -->
-    <string name="navbar_length">Gesture bar length</string> 
-    <string name="short_label">Short</string>
+    <string name="navbar_length">Gesture bar display mode</string> 
+    <string name="hidden_label">Hidden</string>
     <string name="long_label">Long</string>
 </resources>

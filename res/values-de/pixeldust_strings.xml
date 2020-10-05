@@ -165,7 +165,7 @@
     <string name="back_swipe_extended_summary">Aktion auslösen bei langem Wischen (mehr als die Hälfte des Bildschirms) oder einem L-Wischen (lange vertikal)</string>
 
     <!-- Navbar length -->
-    <string name="navbar_length">Länge der Gesten-Navigationsleiste</string> 
-    <string name="short_label">Kurz</string>
+    <string name="navbar_length">Anzeigemodus der Gesten-Navigationsleiste</string> 
+    <string name="hidden_label">Verborgen</string>
     <string name="long_label">Lang</string>
 </resources>
