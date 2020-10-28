@@ -1148,7 +1148,7 @@
     <!-- Summary for suggested actions for settings up a fingerprint lock (device) [CHAR LIMIT=55] -->
     <string name="suggested_fingerprint_lock_settings_summary" product="device"></string>
     <!-- Summary for suggested actions for settings up a fingerprint lock (phone) [CHAR LIMIT=55] -->
-    <string name="suggested_fingerprint_lock_settings_summary" product="default"></string>
+    <string name="suggested_fingerprint_lock_settings_summary"></string>
 
     <!--  Title for security picker to choose the unlock method: None/Pattern/PIN/Password [CHAR LIMIT=22] -->
     <string name="lock_settings_picker_title">Choose screen lock</string>
@@ -5714,7 +5714,7 @@
     <!-- Title for the smart battery toggle [CHAR LIMIT=NONE] -->
     <string name="smart_battery_title">Manage apps automatically</string>
     <!-- Summary for the smart battery toggle [CHAR LIMIT=NONE] -->
-    <string name="smart_battery_summary" product="default">Limit battery for apps that you don\u2019t use often</string>
+    <string name="smart_battery_summary">Limit battery for apps that you don\u2019t use often</string>
     <!-- Footer for the aosp smart battery page -->
     <string name="smart_battery_footer">When Battery Manager detects that apps are draining battery, you\u2019ll have the option to restrict these apps. Restricted apps may not work properly and notifications may be delayed.</string>
     <!-- Title for restricted app preference, clicking it will goes to restricted app list [CHAR LIMIT=NONE] -->
