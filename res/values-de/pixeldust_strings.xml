@@ -264,4 +264,7 @@
     <!-- Ambient display battery percentage --> 
     <string name="ambient_battery_percent_title">Akkuladestand am unteren Rand anzeigen</string> 
     <string name="ambient_battery_percent_summary">Akkuladestand als Prozentwert auf dem Ambient Display anzeigen</string>
+
+    <!-- Radio Info -->
+    <string name="radio_info_title">Radio Informationen (RIL)</string>
 </resources>
