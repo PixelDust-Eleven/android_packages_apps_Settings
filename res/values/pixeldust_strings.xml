@@ -153,5 +153,5 @@
 
     <!-- QSTile requires unlocking before being accessible -->
     <string name="qstile_requires_unlocking_title">Secure QS tiles require unlocking</string>
-    <string name="qstile_requires_unlocking_summary">The following QS tiles require unlocking before they can be used from the lock screen:\nAirplane, Cellular and Locaton</string>
+    <string name="qstile_requires_unlocking_summary">The following QS tiles require unlocking before they can be used from the lock screen:\nAirplane, Cellular, NFC, Hotspot and Locaton</string>
 </resources>

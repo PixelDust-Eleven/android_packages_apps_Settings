@@ -171,5 +171,5 @@
 
     <!-- QSTile requires unlocking before being accessible -->
     <string name="qstile_requires_unlocking_title">Als sicherheitskritisch eingestufte Kacheln erfordern Entsperren</string>
-    <string name="qstile_requires_unlocking_summary">Folgende Schnellkacheln erfordern ein Entsperren, bevor sie vom Sperrbildschirm aus bedient werden können: Flugmodus, Mobile Daten und Standort.</string>
+    <string name="qstile_requires_unlocking_summary">Folgende Schnellkacheln erfordern ein Entsperren, bevor sie vom Sperrbildschirm aus bedient werden können: Flugmodus, Mobile Daten, NFC, Hotspot und Standort.</string>
 </resources>
