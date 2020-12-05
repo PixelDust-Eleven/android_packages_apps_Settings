@@ -20,6 +20,7 @@ import com.android.settings.AllInOneTetherSettings;
 import com.android.settings.DisplaySettings;
 import com.android.settings.IccLockSettings;
 import com.android.settings.MasterClear;
+import com.android.settings.PixelDustWallpapers;
 import com.android.settings.Settings;
 import com.android.settings.StartThemes;
 import com.android.settings.TestingSettings;
@@ -312,6 +313,7 @@ public class SettingsGateway {
             InteractAcrossProfilesDetails.class.getName(),
             MediaControlsSettings.class.getName(),
             PixelDustSettings.class.getName(),
+            PixelDustWallpapers.class.getName(),
             StartThemes.class.getName(),
     };
 

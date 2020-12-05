@@ -3433,6 +3433,21 @@
                 android:resource="@string/pixeldust_settings_summary"/>
         </activity>
 
+        <!-- PixelDustWallpapers -->
+        <activity android:name="Settings$PixelDustWallpapersActivity"
+            android:label="@string/pixeldust_wallpapers_title"
+            android:icon="@drawable/ic_homepage_pixeldust"
+            android:taskAffinity="com.android.settings"
+            android:parentActivityName="Settings">
+            <intent-filter>
+                <action android:name="com.android.settings.action.SETTINGS" />
+            </intent-filter>
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                android:value="com.android.settings.PixelDustWallpapers" />
+            <meta-data android:name="com.android.settings.summary"
+                android:resource="@string/pixeldust_wallpapers_summary"/>
+        </activity>
+
        <!-- Themes -->
        <activity android:name="Settings$StartThemesActivity"
             android:label="@string/themes_title"

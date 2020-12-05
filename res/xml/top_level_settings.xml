@@ -63,6 +63,14 @@
         android:order="-95"/>
 
     <Preference
+        android:key="top_level_pdwallpapers"
+        android:title="@string/pixeldust_wallpapers_title"
+        android:summary="@string/pixeldust_wallpapers_summary"
+        android:icon="@drawable/ic_homepage_pdwallpapers"
+        android:fragment="com.android.settings.PixelDustWallpapers"
+        android:order="-94"/>
+
+    <Preference
         android:key="top_level_battery"
         android:title="@string/power_usage_summary_title"
         android:summary="@string/summary_placeholder"

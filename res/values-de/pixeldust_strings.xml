@@ -28,6 +28,10 @@
     <string name="pixeldust_settings_title">PixelDust Einstellungen</string>
     <string name="pixeldust_settings_summary">ROM Features &amp; benutzerdefinerte Einstellungen</string>
 
+    <!-- PixelDust Wallpapers strings -->
+    <string name="pixeldust_wallpapers_title">PixelDust Hintergründe</string>
+    <string name="pixeldust_wallpapers_summary">Heb ab mit unseren Weltraumgrafiken</string>
+
     <!-- Volume link notification -->
     <string name="volume_link_notification_title">Lautstärke für Klingel- &amp; Benachrichtigungston verknüpfen</string>
 

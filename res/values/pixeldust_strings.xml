@@ -28,6 +28,10 @@
     <string name="pixeldust_settings_title">PixelDust Settings</string>
     <string name="pixeldust_settings_summary">ROM features &amp; personalization</string>
 
+    <!-- PixelDust Wallpapers strings -->
+    <string name="pixeldust_wallpapers_title">PixelDust Wallpapers</string>
+    <string name="pixeldust_wallpapers_summary">Take off with our space themes</string>
+
     <!-- Volume link notification -->
     <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
 
