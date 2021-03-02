@@ -237,4 +237,9 @@
         <item quantity="other">%d Apps gesperrt</item>
     </plurals>
     <string name="keywords_applock_settings">Appschloss, App Schloss, app lock, app locker</string>
+
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <string name="duration_less_than_one_minute">Weniger als 1 Minute</string>
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <string name="screen_time_summary_usage_today">%1$s heute</string>
 </resources>
