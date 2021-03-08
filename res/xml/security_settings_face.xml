@@ -49,7 +49,6 @@
             android:key="security_settings_face_require_swipe"
             android:title="@string/security_settings_face_require_swipe"
             android:summary="@string/security_settings_face_require_swipe_summary"
-            android:defaultValue="false"
             settings:controller="com.android.settings.biometrics.face.FaceSettingsSwipePreferenceController" />
     </PreferenceCategory>
 
