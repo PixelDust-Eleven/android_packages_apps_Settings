@@ -43,10 +43,6 @@
     <string name="battery_stats_reset">Statistik zurücksetzen</string>
     <string name="battery_stats_message">Die Historie zum letzten Ladevorgang wird zurückgesetzt</string>
 
-    <!-- Swipe up for face unlock -->
-    <string name="security_settings_face_require_swipe">Zum Entsperren nach oben wischen</string>
-    <string name="security_settings_face_require_swipe_summary">Auf dem Sperrbildschirm nach oben wischen, um Face Unlock zu verwenden</string>
-
     <!-- Battery health -->
     <string name="battery_health_title">Akkuzustand</string>
     <string name="battery_health_summary">Den Akkuzustand des Geräts überwachen</string>
