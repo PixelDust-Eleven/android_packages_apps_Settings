@@ -34,6 +34,7 @@
 
     <!-- Volume link notification -->
     <string name="volume_link_notification_title">Lautstärke für Klingel- &amp; Benachrichtigungston verknüpfen</string>
+    <string name="ring_volume_title_split">Lautstärke für Klingelton</string>
 
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Schnelles Entsperren</string>
