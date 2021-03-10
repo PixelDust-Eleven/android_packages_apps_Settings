@@ -242,4 +242,6 @@
     <string name="duration_less_than_one_minute">Weniger als 1 Minute</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
     <string name="screen_time_summary_usage_today">%1$s heute</string>
+
+    <string name="ring_volume_title_split">Lautstärke für Klingelton</string>
 </resources>

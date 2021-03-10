@@ -219,4 +219,6 @@
         <item quantity="other">%d apps locked</item>
     </plurals>
     <string name="keywords_applock_settings">applock, applocker, app lock, app locker</string>
+
+    <string name="ring_volume_title_split">Ring volume</string>
 </resources>
