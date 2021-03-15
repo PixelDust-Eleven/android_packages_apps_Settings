@@ -275,5 +275,6 @@
     <string name="keywords_color_balance">Farbe, Farbbalance, Farbkorrektur, Rot, Grün, Blau, LiveDisplay</string>
 
     <!-- Refresh rate -->
-    <string name="refresh_rate_title">Screen refresh rate</string>
+    <string name="min_refresh_rate_title">Minimale Bildwiederholrate</string>
+    <string name="max_refresh_rate_title">Maximale Bildwiederholrate</string>
 </resources>
