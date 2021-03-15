@@ -277,4 +277,6 @@
     <!-- Refresh rate -->
     <string name="min_refresh_rate_title">Minimale Bildwiederholrate</string>
     <string name="max_refresh_rate_title">Maximale Bildwiederholrate</string>
+    <string name="battery_saver_refresh_rate_title">Bildwiederholrate heruntersetzen</string>
+    <string name="battery_saver_refresh_rate_summary">Im Energiesparmodus die maximale Bildwiederholfrequenz auf 60 Hz begrenzen, um Strom zu sparen</string>
 </resources>
