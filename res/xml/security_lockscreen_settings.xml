@@ -54,6 +54,21 @@
     </PreferenceCategory>
 
     <PreferenceCategory
+        android:key="ambient_display_category_custom_options"
+        android:title="@string/ambient_display_category_custom_options"
+        android:order="999">
+
+        <com.pixeldust.settings.preferences.SystemSettingListPreference
+            android:key="ambient_music_ticker"
+            android:title="@string/ambient_music_location"
+            android:summary="%s"
+            android:entries="@array/ambient_music_location_entries"
+            android:entryValues="@array/ambient_music_location_values"
+            android:defaultValue="1" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
         android:key="ambient_display_category_when_to_show"
         android:title="@string/ambient_display_category_triggers"
         android:order="1000">
@@ -109,14 +124,6 @@
             android:title="@string/pulse_on_new_tracks_title"
             android:summary="@string/pulse_on_new_tracks_soli_summary"
             settings:controller="com.android.settings.display.PulseOnNewTracksSoliPreferenceController" />
-
-        <com.pixeldust.settings.preferences.SystemSettingListPreference
-            android:key="ambient_music_ticker"
-            android:title="@string/ambient_music_location"
-            android:summary="%s"
-            android:entries="@array/ambient_music_location_entries"
-            android:entryValues="@array/ambient_music_location_values"
-            android:defaultValue="1" />
 
     </PreferenceCategory>
 

@@ -221,4 +221,8 @@
     <string name="keywords_applock_settings">applock, applocker, app lock, app locker</string>
 
     <string name="ring_volume_title_split">Ring volume</string>
+
+    <!-- Ambient custom options-->
+    <string name="ambient_display_category_custom_options">What else to show</string>
+
 </resources>
