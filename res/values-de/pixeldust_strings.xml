@@ -244,4 +244,9 @@
     <string name="screen_time_summary_usage_today">%1$s heute</string>
 
     <string name="ring_volume_title_split">Lautstärke für Klingelton</string>
+
+    <!-- Ambient custom options-->
+    <string name="ambient_display_category_custom_options">Was soll noch angezeigt werden?</string>
+    <string name="always_on_display_schedule_title">"Always on display" Zeitplan</string>
+    <string name="always_on_display_schedule_summary">Hier können Sie einen Zeitplan für den Wechsel in den AoD-Modus festlegen.</string>
 </resources>

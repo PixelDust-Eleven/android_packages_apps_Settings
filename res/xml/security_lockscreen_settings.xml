@@ -125,6 +125,12 @@
             android:summary="@string/pulse_on_new_tracks_soli_summary"
             settings:controller="com.android.settings.display.PulseOnNewTracksSoliPreferenceController" />
 
+        <Preference
+            android:key="always_on_display_schedule"
+            android:title="@string/always_on_display_schedule_title"
+            android:summary="@string/always_on_display_schedule_summary"
+            android:fragment="com.pixeldust.settings.fragments.AODSchedule" />
+
     </PreferenceCategory>
 
     <!-- Work profile settings are at the bottom with high order value to avoid users thinking that

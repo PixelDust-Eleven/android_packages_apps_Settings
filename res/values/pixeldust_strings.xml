@@ -224,5 +224,6 @@
 
     <!-- Ambient custom options-->
     <string name="ambient_display_category_custom_options">What else to show</string>
-
+    <string name="always_on_display_schedule_title">Always on display schedule</string>
+    <string name="always_on_display_schedule_summary">This allows you to set a schedule for switching to AoD mode.</string>
 </resources>
