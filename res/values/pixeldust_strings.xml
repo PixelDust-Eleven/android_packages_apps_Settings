@@ -32,9 +32,6 @@
     <string name="pixeldust_wallpapers_title">PixelDust Wallpapers</string>
     <string name="pixeldust_wallpapers_summary">Take off with our space themes</string>
 
-    <!-- Volume link notification -->
-    <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
-
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Quick unlock</string>
     <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
@@ -224,8 +221,6 @@
         <item quantity="other">%d apps locked</item>
     </plurals>
     <string name="keywords_applock_settings">applock, applocker, app lock, app locker</string>
-
-    <string name="ring_volume_title_split">Ring volume</string>
 
     <!-- Ambient custom options-->
     <string name="ambient_display_category_custom_options">What else to show</string>

@@ -32,9 +32,6 @@
     <string name="pixeldust_wallpapers_title">PixelDust Hintergründe</string>
     <string name="pixeldust_wallpapers_summary">Heb ab mit unseren Weltraumgrafiken</string>
 
-    <!-- Volume link notification -->
-    <string name="volume_link_notification_title">Lautstärke für Klingel- &amp; Benachrichtigungston verknüpfen</string>
-
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Schnelles Entsperren</string>
     <string name="unlock_quick_unlock_control_summary">Die Sperre wird automatisch aufgehoben, wenn PIN/Passwort richtig eingegeben wurde</string>
@@ -247,8 +244,6 @@
     <string name="duration_less_than_one_minute">Weniger als 1 Minute</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
     <string name="screen_time_summary_usage_today">%1$s heute</string>
-
-    <string name="ring_volume_title_split">Lautstärke für Klingelton</string>
 
     <!-- Ambient custom options-->
     <string name="ambient_display_category_custom_options">Was soll noch angezeigt werden?</string>
