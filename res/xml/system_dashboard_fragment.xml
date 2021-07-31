@@ -24,7 +24,7 @@
     <Preference
         android:key="accessibility_settings"
         android:title="@string/accessibility_settings"
-        android:icon="@drawable/ic_settings_accessibility"
+        android:icon="@drawable/ic_system_accessibility"
         android:order="-270"
         android:fragment="com.android.settings.accessibility.AccessibilitySettings"
         settings:controller="com.android.settings.accessibility.AccessibilityPreferenceController"/>
